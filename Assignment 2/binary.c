@@ -1,3 +1,6 @@
+// Aim:Program to take 2 decimal numbers and display their addition and multiplication into binary.
+// Name:Sangeet Sarkar
+
 #include <stdio.h>
 #include <math.h>
 long long int decimalToBinary(int n)

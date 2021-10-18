@@ -1,3 +1,6 @@
+// Aim:Program to take 2 decimal numbers and display their addition and multiplication in unary.
+// Name:Sangeet Sarkar
+
 #include <stdio.h>
 
 int main()
